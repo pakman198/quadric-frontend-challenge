@@ -5,7 +5,7 @@
         "created_at": "2022-07-12T12:23:34Z",
         "created_by_user": 1,
         "status": "success",
-        "duration_secconds": 150
+        "duration_seconds": 150
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "created_at": "2022-07-12T12:55:15Z",
         "created_by_user": 1,
         "status": "success",
-        "duration_secconds": 150
+        "duration_seconds": 150
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "created_at": "2022-07-13T06:07:48Z",
         "created_by_user": 2,
         "status": "failure",
-        "duration_secconds": 31
+        "duration_seconds": 31
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "created_at": "2022-07-13T11:48:22Z",
         "created_by_user": 1,
         "status": "success",
-        "duration_secconds": 123
+        "duration_seconds": 123
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "created_at": "2022-07-14T15:11:29Z",
         "created_by_user": 1,
         "status": "success",
-        "duration_secconds": 123
+        "duration_seconds": 123
     },
     {
         "id": 6,
@@ -45,6 +45,6 @@
         "created_at": "2022-07-14T12:23:34Z",
         "created_by_user": 1,
         "status": "success",
-        "duration_secconds": 123
+        "duration_seconds": 123
     }
 ]
