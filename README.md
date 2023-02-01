@@ -24,7 +24,7 @@ Our goal is to create a page with a list of executed workflows and their results
   - any failed jobs
 
 ## Guidelines
-- Effort should be 2-4 hours (DO NOT spend more than 4 hours on assignment, prioritize based on the time limit)
+- You have 24 hours to submit a solution after receiving the challenge
 - Frontend code should be in JavaScript ES6+ or TypeScript
 - You can use JS/CSS libraries for logic and layout/styling
 - You can use libraries to provide basic UI components (you should still write few components yourself for us to review)
