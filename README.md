@@ -12,7 +12,7 @@ Our goal is to create a page with a list of executed workflows and their results
 - **The data is provided by a mock API**
 - You need nodejs 16+ installed to run the mock API
 - Run `npm install` then `npm run mock-api`
-- The API endpoints will be available at `http://localhost:3000/`
+- The API endpoints will be available at `http://localhost:3001/`
 - Enpoint details in the [Endpoints document](/ENDPOINTS.md)
 
 ## Frontend

@@ -28,7 +28,7 @@ console.log('Total workflows:', `${db.workflows.length}`.green);
 console.log('Total jobs:', `${db.jobs.length}`.green);
 
 // start the mock server
-const port = 3000;
+const port = 3001;
 const server = jsonServer.create();
 const middlewares = jsonServer.defaults();
 const router = jsonServer.router(path.join(__dirname, 'db.json'));
