@@ -15,7 +15,9 @@ Our goal is to create a page with a list of executed workflows and their results
 - The API endpoints will be available at `http://localhost:3001/`
 - Enpoint details in the [Endpoints document](/ENDPOINTS.md)
 
-## Frontend
+## Frontend ⬇️
+- Navigate to `frontend` folder
+- Run `npm install` then `npm run start`
 - We will show a list of workflows retrieved from the server
 - The list items should be presented with a few pieces of information about the workflow
   - workflow id & status

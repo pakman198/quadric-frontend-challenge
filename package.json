@@ -7,7 +7,7 @@
     "npm": ">=7"
   },
   "scripts": {
-    "mock-api": "node mock"
+    "start": "node mock"
   },
   "devDependencies": {
     "colors": "^1.4.0",
